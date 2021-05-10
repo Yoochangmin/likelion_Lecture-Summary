@@ -20,9 +20,10 @@
 
      -**justify-content**: flex-direction으로 정해진 방향을 기준으로 수평으로  item을 정렬하는 방법을 정함
 
-     ![justify-content](C:\Users\cdals\OneDrive\바탕 화면\멋쟁이사자처럼!!~~\강의 정리\picture\justify-content.PNG)
+     ![justify-content](https://user-images.githubusercontent.com/81625956/117682737-56b57f00-b1ee-11eb-8f3f-00654a1c3a1a.PNG)
 
-     ![space](C:\Users\cdals\OneDrive\바탕 화면\멋쟁이사자처럼!!~~\강의 정리\picture\space.PNG)
+
+     ![space](https://user-images.githubusercontent.com/81625956/117682790-66cd5e80-b1ee-11eb-8283-6d96c8c0a91e.PNG)
 
      space- around :좌우 균일 분배
 
@@ -34,25 +35,26 @@
 
      -align-content:
 
-     ![content](C:\Users\cdals\OneDrive\바탕 화면\멋쟁이사자처럼!!~~\강의 정리\picture\content.PNG)
 
-     ![content space](C:\Users\cdals\OneDrive\바탕 화면\멋쟁이사자처럼!!~~\강의 정리\picture\content space.PNG)
+     ![content](https://user-images.githubusercontent.com/81625956/117682840-7351b700-b1ee-11eb-9d0d-37adbf72d4c4.PNG)
+     
+     ![content space](https://user-images.githubusercontent.com/81625956/117682878-7c428880-b1ee-11eb-9e59-e42e89316c81.PNG)
 
   2. ## 자식요소
 
      flew- grow : flex 아이템의 확장과 관련된 속성, 기본 0
 
      ex) 남은 부모요소의 width 부분 컨테이너를 비율에 따라 나누어짐
+     
+     ![grow](https://user-images.githubusercontent.com/81625956/117682921-85cbf080-b1ee-11eb-9b6c-896049ab0fa3.PNG)
 
-     ![grow](C:\Users\cdals\OneDrive\바탕 화면\멋쟁이사자처럼!!~~\강의 정리\picture\grow.PNG)
-
-     ![grow2](C:\Users\cdals\OneDrive\바탕 화면\멋쟁이사자처럼!!~~\강의 정리\picture\grow2.PNG)
+     ![grow2](https://user-images.githubusercontent.com/81625956/117682947-8c5a6800-b1ee-11eb-9e4e-1735b893af0f.PNG)
 
      flex-shrink: 아이템의 축소와 관련된 속성,  기본 1
 
-     !shrink[](C:\Users\cdals\OneDrive\바탕 화면\멋쟁이사자처럼!!~~\강의 정리\picture\shrink.PNG)
-
-     !shrink2[](C:\Users\cdals\OneDrive\바탕 화면\멋쟁이사자처럼!!~~\강의 정리\picture\shrink2.PNG)
+     ![shrink](https://user-images.githubusercontent.com/81625956/117682991-954b3980-b1ee-11eb-9b55-ccfba5706b3b.PNG)
+   
+     ![shrink2](https://user-images.githubusercontent.com/81625956/117682997-9714fd00-b1ee-11eb-9144-768923a3c0a3.PNG)
 
      flex-basis:flex 아이템의 기본 크기를 결정함
 
