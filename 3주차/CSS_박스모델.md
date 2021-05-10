@@ -4,7 +4,7 @@
 
   - ### 구성 
 
-![](C:\Users\cdals\OneDrive\바탕 화면\멋쟁이사자처럼!!~~\강의 정리\picture\boxmodel.PNG)
+  img src= "C:\Users\cdals\OneDrive\바탕 화면\멋쟁이사자처럼!!~~\강의 정리\picture\boxmodel.PNG)"
 
 - ### 마진(Margin): Border 밖의 여백 
 
