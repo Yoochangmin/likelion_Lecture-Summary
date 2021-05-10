@@ -1,6 +1,7 @@
 - # Flexbox
 
-  ![](C:\Users\cdals\OneDrive\바탕 화면\멋쟁이사자처럼!!~~\강의 정리\picture\flexbox.PNG)
+ ![flexbox](https://user-images.githubusercontent.com/81625956/117682535-1fdf6900-b1ee-11eb-924b-359cc8873d99.PNG)
+
 
   ### -가로방향 or 세로방향으로  프로퍼티 적용
 
@@ -19,9 +20,9 @@
 
      -**justify-content**: flex-direction으로 정해진 방향을 기준으로 수평으로  item을 정렬하는 방법을 정함
 
-     ![](C:\Users\cdals\OneDrive\바탕 화면\멋쟁이사자처럼!!~~\강의 정리\picture\justify-content.PNG)
+     ![justify-content](C:\Users\cdals\OneDrive\바탕 화면\멋쟁이사자처럼!!~~\강의 정리\picture\justify-content.PNG)
 
-     ![](C:\Users\cdals\OneDrive\바탕 화면\멋쟁이사자처럼!!~~\강의 정리\picture\space.PNG)
+     ![space](C:\Users\cdals\OneDrive\바탕 화면\멋쟁이사자처럼!!~~\강의 정리\picture\space.PNG)
 
      space- around :좌우 균일 분배
 
@@ -33,9 +34,9 @@
 
      -align-content:
 
-     ![](C:\Users\cdals\OneDrive\바탕 화면\멋쟁이사자처럼!!~~\강의 정리\picture\content.PNG)
+     ![content](C:\Users\cdals\OneDrive\바탕 화면\멋쟁이사자처럼!!~~\강의 정리\picture\content.PNG)
 
-     ![](C:\Users\cdals\OneDrive\바탕 화면\멋쟁이사자처럼!!~~\강의 정리\picture\content space.PNG)
+     ![content space](C:\Users\cdals\OneDrive\바탕 화면\멋쟁이사자처럼!!~~\강의 정리\picture\content space.PNG)
 
   2. ## 자식요소
 
@@ -43,15 +44,15 @@
 
      ex) 남은 부모요소의 width 부분 컨테이너를 비율에 따라 나누어짐
 
-     ![](C:\Users\cdals\OneDrive\바탕 화면\멋쟁이사자처럼!!~~\강의 정리\picture\grow.PNG)
+     ![grow](C:\Users\cdals\OneDrive\바탕 화면\멋쟁이사자처럼!!~~\강의 정리\picture\grow.PNG)
 
-     ![](C:\Users\cdals\OneDrive\바탕 화면\멋쟁이사자처럼!!~~\강의 정리\picture\grow2.PNG)
+     ![grow2](C:\Users\cdals\OneDrive\바탕 화면\멋쟁이사자처럼!!~~\강의 정리\picture\grow2.PNG)
 
      flex-shrink: 아이템의 축소와 관련된 속성,  기본 1
 
-     ![](C:\Users\cdals\OneDrive\바탕 화면\멋쟁이사자처럼!!~~\강의 정리\picture\shrink.PNG)
+     !shrink[](C:\Users\cdals\OneDrive\바탕 화면\멋쟁이사자처럼!!~~\강의 정리\picture\shrink.PNG)
 
-     ![](C:\Users\cdals\OneDrive\바탕 화면\멋쟁이사자처럼!!~~\강의 정리\picture\shrink2.PNG)
+     !shrink2[](C:\Users\cdals\OneDrive\바탕 화면\멋쟁이사자처럼!!~~\강의 정리\picture\shrink2.PNG)
 
      flex-basis:flex 아이템의 기본 크기를 결정함
 
