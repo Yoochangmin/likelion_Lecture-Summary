@@ -4,7 +4,7 @@
 
   - ### 구성 
 
-  <img src= "C:\Users\cdals\OneDrive\바탕 화면\멋쟁이사자처럼!!~~\강의 정리\picture.boxmodel.png">
+ ![boxmodel](https://user-images.githubusercontent.com/81625956/117682382-f4f51500-b1ed-11eb-8226-9ec801278a34.PNG)
 
 - ### 마진(Margin): Border 밖의 여백 
 
@@ -36,7 +36,7 @@
 
 - ### border 속성
 
-![](C:\Users\cdals\OneDrive\바탕 화면\멋쟁이사자처럼!!~~\강의 정리\picture\border.PNG)
+![border](https://user-images.githubusercontent.com/81625956/117682440-03dbc780-b1ee-11eb-82b8-41ac00ba486a.PNG)
 
 ```
   // 다음 값들을 적용할 때
